@@ -733,10 +733,10 @@
     webpack "5.89.0"
     webpack-node-externals "3.0.0"
 
-"@nestjs/common@^10.0.0", "@nestjs/common@^8.0.0 || ^9.0.0 || ^10.0.0", "@nestjs/common@^9.0.0 || ^10.0.0":
-  version "10.3.1"
-  resolved "https://registry.npmjs.org/@nestjs/common/-/common-10.3.1.tgz"
-  integrity sha512-YuxeIlVemVQCuXMkNbBpNlmwZgp/Cu6dwCOjki63mhyYHEFX48GNNA4zZn5MFRjF4h7VSceABsScROuzsxs9LA==
+"@nestjs/common@^10.0.0", "@nestjs/common@^10.3.5", "@nestjs/common@^8.0.0 || ^9.0.0 || ^10.0.0", "@nestjs/common@^9.0.0 || ^10.0.0":
+  version "10.3.5"
+  resolved "https://registry.npmjs.org/@nestjs/common/-/common-10.3.5.tgz"
+  integrity sha512-XWxbDf2ey/jAyEa3/XpckgfzJZ9j3I05ZkEFx7cAlebFuVKeq5UDDb5Sq9O7hMmbH9xdQj3pYT19SSj01hKeug==
   dependencies:
     iterare "1.2.1"
     tslib "2.6.2"
